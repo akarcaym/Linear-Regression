@@ -1,2 +1,2 @@
-# django
-studentquestionsystem
+# Artificial Intelligence Term Paper
+
